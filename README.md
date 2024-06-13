@@ -22,5 +22,7 @@ It is implemented using HTML, CSS and Javascript along with free meal API. It pr
 4. At the end, it will provide recommendations based on the search.
 ### Deployment
 The application is deployed on GitHub Pages and can be accessed via the following link:
-[Food Recipe Application](https://swaps361.github.io/Movie-Quiz/)
+[Food Recipe Application](https://swaps361.github.io/Recipe/).
+### Contact
+For any questions or feedback, feel free to reach out to [swapnildas742@gmail.com](mailto:swapnildas742@gmail.com).
 
