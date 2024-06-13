@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meal Finder</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="red-heading">Food Recipe</h1>
+        <div class="search-container">
+            <input type="text" id="meal-input" placeholder="Search for a meal..." onkeypress="searchOnEnter(event)">
+            <button onclick="searchMeal()">Search</button>
+        </div>
+        <div id="meal-list" class="meal-list"></div>
+        <div id="meal-details" class="meal-details"></div>
+        <div id="recommended-meals" class="meal-list"></div>
+        <a id="recipe-anchor"></a> 
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
